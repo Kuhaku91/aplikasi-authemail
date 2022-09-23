@@ -1,0 +1,185 @@
+{
+  "project_info": {
+    "project_number": "721449830363",
+    "firebase_url": "https://pertama-119ed-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pertama-119ed",
+    "storage_bucket": "pertama-119ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721449830363:android:0781c52d9bb7a421c249fe",
+        "android_client_info": {
+          "package_name": "com.laudry.appx0dlaudry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721449830363-u9qolcglv56ifrhk29q8451mrobg3jit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGczmfoI4lPlOy1Ec5Qw8qWZFNvfK-QJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721449830363-u9qolcglv56ifrhk29q8451mrobg3jit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721449830363:android:52e754692d3972e7c249fe",
+        "android_client_info": {
+          "package_name": "com.laudry.appx0e"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721449830363-u9qolcglv56ifrhk29q8451mrobg3jit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGczmfoI4lPlOy1Ec5Qw8qWZFNvfK-QJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721449830363-u9qolcglv56ifrhk29q8451mrobg3jit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721449830363:android:127a36f985f506edc249fe",
+        "android_client_info": {
+          "package_name": "com.laudry.authemail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721449830363-u9qolcglv56ifrhk29q8451mrobg3jit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGczmfoI4lPlOy1Ec5Qw8qWZFNvfK-QJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721449830363-u9qolcglv56ifrhk29q8451mrobg3jit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721449830363:android:50bedcbc6bebc2e8c249fe",
+        "android_client_info": {
+          "package_name": "com.laudry.notif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721449830363-u9qolcglv56ifrhk29q8451mrobg3jit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGczmfoI4lPlOy1Ec5Qw8qWZFNvfK-QJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721449830363-u9qolcglv56ifrhk29q8451mrobg3jit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721449830363:android:0639a99a89266e8bc249fe",
+        "android_client_info": {
+          "package_name": "com.laudry.realtimedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721449830363-u9qolcglv56ifrhk29q8451mrobg3jit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGczmfoI4lPlOy1Ec5Qw8qWZFNvfK-QJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721449830363-u9qolcglv56ifrhk29q8451mrobg3jit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721449830363:android:64db281f1849c2c2c249fe",
+        "android_client_info": {
+          "package_name": "com.laudry.rildb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721449830363-u9qolcglv56ifrhk29q8451mrobg3jit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGczmfoI4lPlOy1Ec5Qw8qWZFNvfK-QJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721449830363-u9qolcglv56ifrhk29q8451mrobg3jit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
